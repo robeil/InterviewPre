@@ -1,4 +1,4 @@
-package InterviewPre;
+package InterviewPre.EasyLevel;
 
 import java.util.Arrays;
 
